@@ -18,13 +18,13 @@ class Body extends Component {
                     <div className="col-lg-9 col-md-9 col-sm-12" style={{paddingTop:'2em'}}>
                         <div className="col-3 col-md-3 col-sm-3" style={{padding:'1em',cursor:'pointer'}}>
                            
-                        <div class="card" >
-                               <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                        <div className="card" >
+                               <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
                              
-                               <img class="activator" src={Image2} style={{width:'8em'}} />
+                               <img className="activator" src={Image2} style={{width:'8em'}} alt=""/>
                                </div>
                                
-                               <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                               <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                               
                                     <center>
                                     <h4 style={{width:'8em'}}>Wonder Women</h4>    
@@ -39,12 +39,12 @@ class Body extends Component {
 
                               <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                              <div class="card" >
-                               <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                               <img class="activator" src={Image} style={{width:'8em'}} />
+                              <div className="card" >
+                               <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                               <img className="activator" src={Image} style={{width:'8em'}} alt=""/>
                                </div>
                                
-                               <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                               <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                               
                                     <center>
                                     <h4 style={{width:'8em'}}>Bling Mate OG</h4>    
@@ -58,12 +58,12 @@ class Body extends Component {
 
                                  <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                              <div class="card" >
-                               <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                               <img class="activator" src={Image2} style={{width:'8em'}} />
+                              <div className="card" >
+                               <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                               <img className="activator" src={Image2} style={{width:'8em'}} alt=""/>
                                </div>
                                
-                               <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                               <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                               
                                     <center>
                                     <h4 style={{width:'8em'}}>Wonder Women</h4>      
@@ -77,12 +77,12 @@ class Body extends Component {
 
                                  <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                              <div class="card" >
-                               <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                               <img class="activator" src={Image} style={{width:'8em'}} />
+                              <div className="card" >
+                               <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                               <img className="activator" src={Image} style={{width:'8em'}} alt=""/>
                                </div>
                                
-                               <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                               <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                               
                                     <center>
                                     <h4 style={{width:'8em'}}>Bling Mate OG</h4>  
@@ -96,12 +96,12 @@ class Body extends Component {
 
                                  <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                              <div class="card" >
-                               <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                               <img class="activator" src={Image2} style={{width:'8em'}} />
+                              <div className="card" >
+                               <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                               <img className="activator" src={Image2} style={{width:'8em'}} alt=""/>
                                </div>
                                
-                               <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                               <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                               
                                     <center>
                                     <h4 style={{width:'8em'}}>Wonder Women</h4>   
@@ -115,12 +115,12 @@ class Body extends Component {
 
                                  <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                           <div class="card" >
-                            <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                            <img class="activator" src={Image} style={{width:'8em'}} />
+                           <div className="card" >
+                            <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                            <img className="activator" src={Image} style={{width:'8em'}} alt=""/>
                             </div>
                             
-                            <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                            <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                            
                                  <center>
                                  <h4 style={{width:'8em'}}>Bling Mate OG</h4>      
@@ -134,12 +134,12 @@ class Body extends Component {
 
                               <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                           <div class="card" >
-                            <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                            <img class="activator" src={Image2} style={{width:'8em'}} />
+                           <div className="card" >
+                            <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                            <img className="activator" src={Image2} style={{width:'8em'}} alt=""/>
                             </div>
                             
-                            <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                            <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                            
                                  <center>
                                  <h4 style={{width:'8em'}}>Wonder Women</h4>    
@@ -153,12 +153,12 @@ class Body extends Component {
 
                               <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
                            
-                           <div class="card" >
-                            <div class="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
-                            <img class="activator" src={Image} style={{width:'8em'}} />
+                           <div className="card" >
+                            <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
+                            <img className="activator" src={Image} style={{width:'8em'}} alt=""/>
                             </div>
                             
-                            <div class="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
+                            <div className="card-reveal col-lg-3" style={{paddingTop:'1em'}}>
                            
                                  <center>
                                  <h4 style={{width:'8em'}}>Bling Mate OG</h4>    
