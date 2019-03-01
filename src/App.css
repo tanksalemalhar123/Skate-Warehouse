@@ -22,7 +22,6 @@ li:hover {
 }
 
 .sidenav {
-  
   max-width:500px; 
   left: 0;
   background-color: #E5E7E9;
@@ -36,8 +35,23 @@ li:hover {
   font-size: 20px;
   color: #818181;
   display: block;
+  
 }
 
 .sidenav a:hover {
   color: #000;
+  border: #FC4208;
 }
+
+.sidenav a:active{
+  border-left: #FC4208;
+}
+.card1{
+  opacity:1;
+}
+
+.card1:hover{
+  opacity:0.5;
+
+}
+

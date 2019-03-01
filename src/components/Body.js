@@ -9,16 +9,16 @@ class Body extends Component {
             <div className="col-lg-12 col-md-12 col-sm-12">
                     <div className="col-lg-3 col-md-3 col-sm-12" style={{paddingTop:'2em'}}>
                     <div className="sidenav">
-                        <a href="#about" style={{borderLeft:'5px solid #F6510E'}}>SKATEBOARD</a>
-                        <a href="#services">LONGBOARD</a>
-                        <a href="#clients">ACCESSORIES</a>
-                        <a href="#contact">BRANDS</a>
+                        <a href="#skateboard" style={{borderLeft:'5px solid #F6510E'}}>SKATEBOARD</a>
+                        <a href="#longboard">LONGBOARD</a>
+                        <a href="#accessories">ACCESSORIES</a>
+                        <a href="#brands">BRANDS</a>
                         </div>
                     </div>
                     <div className="col-lg-9 col-md-9 col-sm-12" style={{paddingTop:'2em'}}>
-                        <div className="col-3 col-md-3 col-sm-3" style={{padding:'1em',cursor:'pointer'}}>
+                        <div className="col-3 col-md-3 col-sm-3 card1" style={{padding:'1em',cursor:'pointer'}}>
                            
-                        <div className="card" >
+                        <div className="card">
                                <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
                              
                                <img className="activator" src={Image2} style={{width:'8em'}} alt=""/>
@@ -37,7 +37,7 @@ class Body extends Component {
                                  </div>  
 
 
-                              <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                              <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                               <div className="card" >
                                <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -56,7 +56,7 @@ class Body extends Component {
                            </div>              
                                  </div>  
 
-                                 <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                                 <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                               <div className="card" >
                                <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -75,7 +75,7 @@ class Body extends Component {
                            </div>              
                                  </div>  
 
-                                 <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                                 <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                               <div className="card" >
                                <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -94,7 +94,7 @@ class Body extends Component {
                            </div>              
                                  </div>  
 
-                                 <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                                 <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                               <div className="card" >
                                <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -113,7 +113,7 @@ class Body extends Component {
                            </div>              
                                  </div>  
 
-                                 <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                                 <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                            <div className="card" >
                             <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -132,7 +132,7 @@ class Body extends Component {
                         </div>              
                               </div>  
 
-                              <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                              <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                            <div className="card" >
                             <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>
@@ -151,7 +151,7 @@ class Body extends Component {
                         </div>              
                               </div>  
 
-                              <div className="col-3 col-md-3 col-sm-3"  style={{padding:'1em',cursor:'pointer'}}>
+                              <div className="col-3 col-md-3 col-sm-3 card1"  style={{padding:'1em',cursor:'pointer'}}>
                            
                            <div className="card" >
                             <div className="card-image waves-effect waves-block waves-light col-lg-1" style={{marginRight:'4em'}}>

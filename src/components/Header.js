@@ -12,31 +12,17 @@ class Header extends Component {
                     </div>
                    
                      <div className="col-lg-6 col-md-10 col-sm-12" style={{paddingTop:'2em'}}>
-                     <nav className="navbar navbar-inverse" style={{border:'none'}}>
-                    <div className="container-fluid" style={{backgroundColor:'white'}}>
-                        <div className="navbar-header" >
-                        <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" style={{background:'black'}}>
-                            <span className="icon-bar"></span>
-                            <span className="icon-bar"></span>
-                            <span className="icon-bar"></span>                        
-                        </button>
-                       
-                        </div>
-                        <div className="collapse navbar-collapse" id="myNavbar" style={{backgroundColor:'white'}}>
-                       
-                        <ul className="nav navbar-nav navbar-right">
-                            <li className="li"><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/"><img src={Search} style={{width:'auto'}} alt=""/>SEARCH</a></li>
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">
-                          
-                            SUPPORT</a></li>
+                     <nav className="navbar navbar-default" style={{border:'none'}}>
+                        <div className="container-fluid" style={{background:'white'}}>
                            
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">GIFT CARD</a></li>       
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">LOGIN</a></li>
-                          
-                        </ul>
+                            <ul className="nav navbar-nav">
+                            <li ><a href="https://skateboard-react.herokuapp.com/"><img src={Search} alt=""/>SEARCH</a></li>
+                            <li><a href="https://skateboard-react.herokuapp.com/">SUPPORT</a></li>
+                            <li><a href="https://skateboard-react.herokuapp.com/">GIFT CARD</a></li>
+                            <li><a href="https://skateboard-react.herokuapp.com/">LOGIN</a></li>
+                            </ul>
                         </div>
-                    </div>
-                    </nav>
+                     </nav>
            </div>
 
             </div>
