@@ -25,13 +25,13 @@ class Header extends Component {
                         <div className="collapse navbar-collapse" id="myNavbar" style={{backgroundColor:'white'}}>
                        
                         <ul className="nav navbar-nav navbar-right">
-                            <li className="li"><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="#"><img src={Search} style={{width:'auto'}}/>SEARCH</a></li>
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="#">
+                            <li className="li"><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/"><img src={Search} style={{width:'auto'}} alt=""/>SEARCH</a></li>
+                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">
                           
                             SUPPORT</a></li>
                            
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="#">GIFT CARD</a></li>       
-                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="#">LOGIN</a></li>
+                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">GIFT CARD</a></li>       
+                            <li><a style={{color:'black',fontFamily:'Montserrat,sans-serif',fontSize:'1em'}} href="https://skateboard-react.herokuapp.com/">LOGIN</a></li>
                           
                         </ul>
                         </div>
